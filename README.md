@@ -1,4 +1,4 @@
-# DockerImage of [stecklars/dynamic-dns-netcup-api](https://github.com/stecklars/dynamic-dns-netcup-api.git)
+# DockerImage of [stecklars/dynamic-dns-netcup-api](https://github.com/stecklars/dynamic-dns-netcup-api)
 
 ## Getting Started
 1. run ```docker run -n dynamic-dns-netcup-api -v dynamic-dns-netcup-api-data:/data hmlZYA/dynamic-dns-netcup-api```.
