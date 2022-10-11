@@ -1,4 +1,6 @@
+//Copyright (c) 2018 Lars-Sören Steck
 #!/usr/bin/env php
+
 <?php
 
 //Load necessary functions

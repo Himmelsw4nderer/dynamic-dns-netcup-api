@@ -1,3 +1,5 @@
+//Copyright (c) 2018 Lars-Sören Steck
+
 <?php
 
 //Try to load required config.php, if it fails, output error, as user probably has not followed "Getting started" guide.

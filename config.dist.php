@@ -1,3 +1,4 @@
+//Copyright (c) 2018 Lars-Sören Steck
 <?php
 
 // Enter your netcup customer number here.
